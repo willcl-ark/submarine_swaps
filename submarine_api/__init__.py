@@ -1,1 +1,1 @@
-name = "ss"
+name = "submarine"

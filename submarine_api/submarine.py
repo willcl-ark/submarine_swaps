@@ -43,6 +43,7 @@ class Swap:
             self.swap_amount = json_data['swap_amount']
             self.swap_fee = json_data['swap_fee']
             self.swap_p2wsh_address = json_data['swap_p2wsh_address']
+            self.swap_p2sh_address = json_data['swap_p2sh_address']
             self.timeout_block_height = json_data['timeout_block_height']
 
     def check_status(self):
