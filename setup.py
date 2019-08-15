@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="submarine_api",
-    version="0.0.1",
+    version="0.0.2",
     author="Will Clark",
     author_email="will8clark@gmail.com",
     description="Python bindings for Submarine Swap API",
