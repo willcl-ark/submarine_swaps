@@ -19,6 +19,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     keywords="submarine swaps api",
-    install_requires=[],
     python_requires='>=3.6',
 )
